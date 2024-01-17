@@ -17,8 +17,8 @@ import numpy as np
 from scipy.spatial import distance
 
 
-video_dev0 = 0
-video_dev1 = 1
+video_dev0 = 'dev/video0'
+video_dev1 = 'dev/video1'
 image_width = 1280
 image_height = 720
 window0 = "camera-0"
